@@ -1,3 +1,5 @@
+# HOLON-META: {"purpose": "mini-agent", "wiki": "32d6d069-74d6-8164-a6d5-f41c3d26ae9b"}
+
 """
 MINI AGENT — Holon Swarm Worker
 ================================
